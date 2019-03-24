@@ -3,3 +3,8 @@ h1 {
     color: crimson;
     font-size: xx-large;
   }
+  p {
+    text-align: center;
+    color: yellow;
+    font-size: x-large
+  }
