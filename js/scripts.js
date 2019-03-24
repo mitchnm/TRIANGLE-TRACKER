@@ -17,4 +17,8 @@ function triangletracker() {
         } 
         else if (mitch(firstNumber,secondNumber,thirdNumber) && firstNumber !== secondNumber && firstNumber!== thirdNumber && secondNumber !== thirdNumber )  {
         alert ('THIS IS A SCALENE TRIANGLE!');
-        }     
+        }   
+        else {
+        alert ('THIS IS NOT A TRIANGLE!! TRY OTHER DIMENSIONS.');  
+}
+}
