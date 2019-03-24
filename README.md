@@ -12,3 +12,10 @@ I used HTML , CSS and JavaScript languages.
 ## Support and contact details
 if there are any issues,contact me through my email:
           "mitchndungu21@gmail.com"
+## Live site link on github pages
+https://mitchnm.github.io/Triangle-tracker/
+### License
+
+# MIT License
+
+Copyright (c) 2019 mitchnm          
