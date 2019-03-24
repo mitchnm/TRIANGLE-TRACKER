@@ -8,3 +8,7 @@ h1 {
     color: yellow;
     font-size: x-large
   }
+  body  {
+    background: url("tt3.jpg");
+    background-size: contain;
+  }
