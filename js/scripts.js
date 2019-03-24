@@ -11,4 +11,10 @@ function triangletracker() {
         }
         else if (mitch(firstNumber,secondNumber,thirdNumber) && firstNumber === secondNumber && firstNumber=== thirdNumber && secondNumber === thirdNumber )  {
         alert ('THIS IS AN EQUILATERAL TRIANGLE!');
-        }      
+        } 
+        else if (mitch(firstNumber,secondNumber,thirdNumber) && firstNumber === secondNumber || thirdNumber === secondNumber || thirdNumber === firstNumber )  {
+        alert ('THIS IS AN ISOSCELES TRIANGLE!');
+        } 
+        else if (mitch(firstNumber,secondNumber,thirdNumber) && firstNumber !== secondNumber && firstNumber!== thirdNumber && secondNumber !== thirdNumber )  {
+        alert ('THIS IS A SCALENE TRIANGLE!');
+        }     
