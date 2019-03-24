@@ -7,5 +7,8 @@ function triangletracker() {
         return (firstNumber + secondNumber > thirdNumber && firstNumber + thirdNumber > secondNumber && secondNumber + thirdNumber > firstNumber);
         }
         if (mitch(firstNumber,secondNumber,thirdNumber) && firstNumber <= 0 || secondNumber <= 0 || thirdNumber <= 0 || NaN )  {
-            alert ('THIS IS NOT A TRIANGLE!! TRY OTHER DIMENSIONS.');   
-            }
+        alert ('THIS IS NOT A TRIANGLE!! TRY OTHER DIMENSIONS.');   
+        }
+        else if (mitch(firstNumber,secondNumber,thirdNumber) && firstNumber === secondNumber && firstNumber=== thirdNumber && secondNumber === thirdNumber )  {
+        alert ('THIS IS AN EQUILATERAL TRIANGLE!');
+        }      
