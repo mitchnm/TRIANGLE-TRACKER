@@ -4,7 +4,7 @@
 ## Description
 This is a simple mathematical application which tells which type of triangle is formed with the three dimensions one inputs.
 ## Setup/Installation Requirements
-Just click this live link "https://mitchnm.github.io/Triangle-tracker/"
+Just click this live link "https://mitchnm.github.io/TRIANGLE-TRACKER/"
 ## Known Bugs
 There are no known bugs
 ## Technologies Used
@@ -13,7 +13,7 @@ I used HTML , CSS and JavaScript languages.
 if there are any issues,contact me through my email:
           "mitchndungu21@gmail.com"
 ## Live site link on github pages
-https://mitchnm.github.io/Triangle-tracker/
+https://mitchnm.github.io/TRIANGLE-TRACKER/
 ### License
 
 # MIT License
